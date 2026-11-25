@@ -4,4 +4,3 @@ Each commit saves a checkpoint.
 This line was added on main branch.
 This line was added on conflict branch.
 Git makes teamwork easier.
-Git is best for teamwork.
